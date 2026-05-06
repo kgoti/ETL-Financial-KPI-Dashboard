@@ -2,7 +2,6 @@
 
 **Tools:** Python · SQL · Power BI · DAX
 **Domain:** Banking & Financial Services
-**Level:** Intermediate–Advanced
 
 ---
 
